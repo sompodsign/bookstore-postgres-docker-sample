@@ -4,6 +4,9 @@ services:
   web:
     build: .
     command: python /code/manage.py runserver 0.0.0.0:8000
+    environment:
+      - SECRET_KEY=django-insecure-a*dca^b5-1(hie#&zgs28k8p5tgmp^-^ai#g4e_vjl4sd0l%wi
+      - DEBUG=1
     volumes:
       - .:/code
     ports:
