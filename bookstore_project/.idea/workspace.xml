@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cbf4827-c9f9-4d18-919e-fe6982eff217" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../static/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../static/js/base.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../templates/_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../templates/_base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../templates/home.html" afterDir="false" />
-    </list>
+    <list default="true" id="2cbf4827-c9f9-4d18-919e-fe6982eff217" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1641256502325</updated>
       <workItem from="1641256503518" duration="24000" />
+      <workItem from="1641616365232" duration="19000" />
     </task>
     <servers />
   </component>
