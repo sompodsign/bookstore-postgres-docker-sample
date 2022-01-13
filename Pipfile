@@ -9,6 +9,7 @@ psycopg2 = "==2.8.4"
 django-crispy-forms = "*"
 django-allauth = "*"
 pillow = "*"
+django-debug-toolbar = "*"
 
 [dev-packages]
 
